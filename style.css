@@ -1,0 +1,22 @@
+.login-window-center {
+	text-align: center;
+}
+
+.login-window {
+	display: inline-block;
+	padding: 15px;
+	padding-bottom: 40px;
+	margin-top: 90px;
+	border: solid 2px grey;
+}
+
+.login-input {
+	display: block;
+	margin: auto;
+	margin-bottom: 12px;
+	padding: 4px;
+}
+
+.title {
+	font-family: sans-serif;
+}
